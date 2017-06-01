@@ -64,7 +64,7 @@ const replyMessage = (message) => {
 
         // Configure the request
         options = {
-            url: 'http://al2c.dtdns.net/Al2cServer-war/webresources/evenements/validerInvitation',
+            url: 'http://savethedate-al2c.fr/Al2cServer-war/webresources/evenements/validerInvitation',
             method: 'POST',
             headers: headers,
             body: JSON.stringify(o)
@@ -98,7 +98,7 @@ const replyMessage = (message) => {
 
         // Configure the request
         options = {
-            url: 'http://al2c.dtdns.net/Al2cServer-war/webresources/evenements/validerInvitation',
+            url: 'http://savethedate-al2c.fr/Al2cServer-war/webresources/evenements/validerInvitation',
             method: 'POST',
             headers: headers,
             body: JSON.stringify(o)
@@ -140,7 +140,7 @@ const replyMessage = (message) => {
 
         // Configure the request
         options = {
-            url: 'http://al2c.dtdns.net/Al2cServer-war/webresources/evenements/creerInvitationPremierContact',
+            url: 'http://savethedate-al2c.fr/Al2cServer-war/webresources/evenements/creerInvitationPremierContact',
             method: 'POST',
             headers: headers,
             body: JSON.stringify(o)
@@ -172,7 +172,7 @@ const replyMessage = (message) => {
 
         // Configure the request
         options = {
-            url: 'http://al2c.dtdns.net/Al2cServer-war/webresources/evenements/creerInvitationPremierContact',
+            url: 'http://savethedate-al2c.fr/Al2cServer-war/webresources/evenements/creerInvitationPremierContact',
             method: 'POST',
             headers: headers,
             body: JSON.stringify(o)
